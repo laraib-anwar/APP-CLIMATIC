@@ -1,2 +1,2 @@
-final appId = "ed60fcfbd110ee65c7150605ea8aceea";
+final appId = "ca8bc4689a6337c6d6c35b58dbd1fcfa";
 final defaultCity = "Spokane";
